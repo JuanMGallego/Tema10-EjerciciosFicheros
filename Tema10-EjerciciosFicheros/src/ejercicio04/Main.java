@@ -31,6 +31,8 @@ public class Main {
 	        	
 	        }
 	        
+	        in.flush();
+	        
 	        in.close();
 	        sc.close();
 			

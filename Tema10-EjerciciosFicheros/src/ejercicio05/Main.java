@@ -14,7 +14,7 @@ public class Main {
 		
 		try {
 			
-			BufferedWriter in = new BufferedWriter(new FileWriter("src\\ejercicio04\\Personas.txt", true));
+			BufferedWriter in = new BufferedWriter(new FileWriter("src\\ejercicio05\\Personas.txt", true));
 	        Scanner sc = new Scanner(System.in);
 	        
 	        System.out.print("Introduzca su nombre: ");

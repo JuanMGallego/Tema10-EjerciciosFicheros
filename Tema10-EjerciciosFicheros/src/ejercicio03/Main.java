@@ -1,4 +1,4 @@
-package ejercicios03;
+package ejercicio03;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
